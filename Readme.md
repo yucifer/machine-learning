@@ -1,0 +1,1 @@
+This is my journey of learning Machine Learning. This includes collection of various colab notebooks that i created by watching various tutorials and reading blogs and experimenting and copying the code shown in those resources and the credit of that code goes to the creators of that beautiful content only.
